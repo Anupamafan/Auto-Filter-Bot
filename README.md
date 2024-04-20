@@ -92,7 +92,7 @@
 <br>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/HA-Bots/Auto-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Anupamafan/Auto-Filter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
